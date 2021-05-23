@@ -1,6 +1,8 @@
 # TraumaCheck
 Is your mental health is affected by your workplace environment? Let's find out...!
 
+![Demonstration](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/542/423/datas/original.gif)
+
 ## Inspiration
 Due to this COVID-19 pandemic, we are currently noticing a large number of mental health breakdowns especially in people working from home. So, we decided to build a project that would let people know whether their mental health is interfering with their workplace performance.
 
@@ -31,3 +33,4 @@ We successfully overcame all the above-mentioned challenges and that's our bigge
 ## What's next for TraumaCheck
 - We'll try to suggest some solutions which will help people overcome mental health issues through the same app.
 - We'll try to implement an Unsupervised dynamic Machine Learning model in future.
+- - Make the app responsive
