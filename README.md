@@ -1,5 +1,5 @@
 # TraumaCheck
-Is your mental health is affected by your workplace environment? Let's find out...!
+Does your mental health affect your workplace performance? Let's find out...!
 
 ![Demonstration](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/542/423/datas/original.gif)
 
