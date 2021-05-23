@@ -33,4 +33,4 @@ We successfully overcame all the above-mentioned challenges and that's our bigge
 ## What's next for TraumaCheck
 - We'll try to suggest some solutions which will help people overcome mental health issues through the same app.
 - We'll try to implement an Unsupervised dynamic Machine Learning model in future.
-- - Make the app responsive
+- Make the app responsive
